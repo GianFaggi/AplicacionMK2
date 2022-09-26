@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AplicacionMK</string>
+    <string name="title_login">Log In</string>
+    <string name="password">Password</string>
+    <string name="Log_in">Log in</string>
+    <string name="Text_Register">" Don't have an account?"</string>
+    <string name="Register">Register</string>
+    <string name="registro">Tit_Register</string>
+    <string name="Info_Register">Enter your details and create a free account</string>
+    <string name="Tit_Mail">Your email</string>
+    <string name="Log_in_Link">"Log in "</string>
+    <string name="createAccount">Create account</string>
+    <string name="TextCheck">By creating an account you must accept the terms and conditions of our services</string>
+    <string name="TextRegister">Already have an account?</string>
+    <string name="HintPassword">Password</string>
+    <string name="HintEmail">Email</string>
+    <string name="Info_AboutUs">"We are a company in charge of bringing the best possible experience to our users "</string>
+    <string name="about_us">About Us</string>
+    <string name="todo">ALL</string>
+    <string name="PasswordCreate" >Password</string>
+    <string name="imagen">imagen</string>
+</resources>

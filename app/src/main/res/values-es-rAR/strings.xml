@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AplicacionMK</string>
+    <string name="title_login">Ingresar</string>
+    <string name="password">Contraseña</string>
+    <string name="Log_in">Ingresar</string>
+    <string name="registro">Tit_Register</string>
+    <string name="Info_Register">Ingrese sus detalles y cree una cuenta gratuita</string>
+    <string name="Tit_Mail">Tu email</string>
+    <string name="Log_in_Link">Iniciar Sesion</string>
+    <string name="createAccount">Crear cuenta</string>
+    <string name="TextCheck">Al crear una cuenta usted debe aceptar los terminos y condiciones de nuestros servicios</string>
+    <string name="TextRegister">Ya posee una cuenta?</string>
+    <string name="HintPassword">Password</string>
+    <string name="HintEmail">Email</string>
+    <string name="Info_AboutUs">Somos una empresa encargada de llevar la mejor experencia posible a nuestros usuarios</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="todo">todo</string>
+    <string name="Text_Register">¿No posee una cuenta?</string>
+    <string name="Register">Registrese</string>
+    <string name="PasswordCreate">Password</string>
+    <string name="imagen">imagen</string>
+</resources>
